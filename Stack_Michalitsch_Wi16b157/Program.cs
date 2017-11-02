@@ -11,7 +11,7 @@ namespace Stack_Michalitsch_Wi16b157
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("TestTest");
             Stack<String> MyStack = new Stack<String>();
             MyStack.Push(Console.ReadLine());
             MyStack.Push(Console.ReadLine());
