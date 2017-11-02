@@ -10,6 +10,8 @@ namespace Stack_Michalitsch_Wi16b157
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Branch 2 Commit 2");
+            Console.WriteLine("Branch 2 Commit 3");
             Stack<String> MyStack = new Stack<String>();
             MyStack.Push(Console.ReadLine());
             MyStack.Push(Console.ReadLine());
