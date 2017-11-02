@@ -8,8 +8,10 @@ namespace Stack_Michalitsch_Wi16b157
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
+            Console.WriteLine("Test");
             Stack<String> MyStack = new Stack<String>();
             MyStack.Push(Console.ReadLine());
             MyStack.Push(Console.ReadLine());
